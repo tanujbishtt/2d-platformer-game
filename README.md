@@ -2,6 +2,12 @@
 
 A side-scrolling 2D platformer game built with Python and Pygame, featuring player characters, enemies, collectibles, and challenging level design.
 
+## Screenshots
+
+![Gameplay Screenshot 1](screenshots/ss_01.png)
+
+![Gameplay Screenshot 2](screenshots/ss_02.png)
+
 ## Features
 
 - **Player Character**: Control a player with smooth movement, jumping, and attack mechanics
